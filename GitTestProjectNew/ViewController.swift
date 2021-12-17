@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         
         print("feaureB")
         print("newFeatureA")
+        
+        print("newFeaureC")
 
     }
 
